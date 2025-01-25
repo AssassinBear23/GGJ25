@@ -64,8 +64,6 @@ public class FollowMousePosition : MonoBehaviour
     {
         Vector2 mouseViewportPosition = Camera.main.ScreenToViewportPoint(Input.mousePosition);
         mouseViewportPosition = new Vector2(Mathf.Clamp01(mouseViewportPosition.x), Mathf.Clamp01(mouseViewportPosition.y));
-        Debug.Log(mouseViewportPosition);
-        Vector2 mouseWorldPosition = Camera.main.ViewportToWorldPoint(mouseViewportPosition);
-        return mouseWorldPosition;
+        return Camera.main.ViewportToWorldPoint(mouseViewportPosition);
     }
 }
