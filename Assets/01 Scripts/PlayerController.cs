@@ -112,4 +112,5 @@ public class PlayerController : MonoBehaviour {
             spriteShape.spline.SetLeftTangent(i, _newLt);
         }
     }
+
 }
