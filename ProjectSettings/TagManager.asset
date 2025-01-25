@@ -38,8 +38,17 @@ TagManager:
   - 
   - 
   m_SortingLayers:
+  - name: Back
+    uniqueID: 1522376977
+    locked: 0
   - name: Default
     uniqueID: 0
+    locked: 0
+  - name: Water front
+    uniqueID: 4204127745
+    locked: 0
+  - name: Front
+    uniqueID: 4105395401
     locked: 0
   m_RenderingLayers:
   - Default
