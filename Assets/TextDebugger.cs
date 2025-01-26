@@ -13,6 +13,6 @@ public class TextDebugger : MonoBehaviour
 
     private void Update()
     {
-        text.text = $"BuoyancyForce: {nodeBuoyancy.BuoyancyForce.y}";
+        text.text = $"{nodeBuoyancy.BuoyancyForce.y}";
     }
 }
