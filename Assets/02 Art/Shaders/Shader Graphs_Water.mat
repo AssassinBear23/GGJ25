@@ -40,9 +40,17 @@ Material:
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     m_Ints: []
-    m_Floats: []
+    m_Floats:
+    - _CutoffDistance: -0.79
+    - _SplashTime: 0
+    - _WubbaWubbaDuration: 7
+    - _WubbaWubbaFadeDist: 0.05
+    - _WubbaWubbaSpeed: 0.16
     m_Colors:
     - _Color: {r: 0, g: 0.47085667, b: 1, a: 0}
+    - _SplashPoint: {r: 0, g: 0, b: 0, a: 0}
+    - _WubbaWubbaPoints: {r: 0, g: 0, b: 0, a: 0}
+    - _WubbaWubbaTimes: {r: -20, g: -20, b: 0, a: 0}
   m_BuildTextureStacks: []
   m_AllowLocking: 1
 --- !u!114 &1242418930410460547
