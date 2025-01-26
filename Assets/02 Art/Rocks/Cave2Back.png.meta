@@ -1,10 +1,13 @@
 fileFormatVersion: 2
-guid: c5445359c99c34f41b8bd92017fdc784
+guid: 7dad1b82dc942274cba5a1cb65736647
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 3218942243170319695
-    second: TrianglesOfDeath_0
+      213: -6162051415531744704
+    second: Cave2Back_0
+  - first:
+      213: -7231943946951569308
+    second: Cave2Back_1
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -100,13 +103,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: TrianglesOfDeath_0
+      name: Cave2Back_0
       rect:
         serializedVersion: 2
-        x: 1511
-        y: 0
-        width: 1045
-        height: 254
+        x: 0
+        y: 152
+        width: 4000
+        height: 2348
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -115,8 +118,30 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: f4d7aac5aeafbac20800000000000000
-      internalID: 3218942243170319695
+      spriteID: 0429981b2eefb7aa0800000000000000
+      internalID: -6162051415531744704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cave2Back_1
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 1076
+        width: 3682
+        height: 1485
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4605a66fb49f2ab90800000000000000
+      internalID: -7231943946951569308
       vertices: []
       indices: 
       edges: []
@@ -125,7 +150,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 94e3db239e520a0458585cc9c8e91ed6
+    spriteID: 6d0984abe0396544cb78c6d7a2f347ab
     internalID: 0
     vertices: []
     indices: 
@@ -135,7 +160,8 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      TrianglesOfDeath_0: 3218942243170319695
+      Cave2Back_0: -6162051415531744704
+      Cave2Back_1: -7231943946951569308
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

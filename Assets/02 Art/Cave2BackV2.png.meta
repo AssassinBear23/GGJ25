@@ -1,10 +1,13 @@
 fileFormatVersion: 2
-guid: c5445359c99c34f41b8bd92017fdc784
+guid: 6090a247ca417154496370c95128ef83
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 3218942243170319695
-    second: TrianglesOfDeath_0
+      213: -1091086753971881610
+    second: Cave2BackV2_0
+  - first:
+      213: -3361565651044110969
+    second: Cave2BackV2_1
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -100,23 +103,45 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: TrianglesOfDeath_0
+      name: Cave2BackV2_0
       rect:
         serializedVersion: 2
-        x: 1511
-        y: 0
-        width: 1045
-        height: 254
+        x: 0
+        y: 159
+        width: 4000
+        height: 2348
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: f4d7aac5aeafbac20800000000000000
-      internalID: 3218942243170319695
+      spriteID: 6793f5ac06eabd0f0800000000000000
+      internalID: -1091086753971881610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cave2BackV2_1
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 1815
+        width: 3674
+        height: 746
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78d6c58c9d15951d0800000000000000
+      internalID: -3361565651044110969
       vertices: []
       indices: 
       edges: []
@@ -125,7 +150,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 94e3db239e520a0458585cc9c8e91ed6
+    spriteID: 
     internalID: 0
     vertices: []
     indices: 
@@ -134,8 +159,7 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable:
-      TrianglesOfDeath_0: 3218942243170319695
+    nameFileIdTable: {}
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

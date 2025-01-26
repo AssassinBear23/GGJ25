@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: c5445359c99c34f41b8bd92017fdc784
+guid: bf7f94d552a4d204abe828c1f46c443d
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 3218942243170319695
-    second: TrianglesOfDeath_0
+      213: -7096974450449987977
+    second: Levels3_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -100,13 +100,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: TrianglesOfDeath_0
+      name: Levels3_0
       rect:
         serializedVersion: 2
-        x: 1511
-        y: 0
-        width: 1045
-        height: 254
+        x: 0
+        y: 1170
+        width: 4000
+        height: 2368
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -115,8 +115,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: f4d7aac5aeafbac20800000000000000
-      internalID: 3218942243170319695
+      spriteID: 776c7e4b65b728d90800000000000000
+      internalID: -7096974450449987977
       vertices: []
       indices: 
       edges: []
@@ -125,7 +125,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 94e3db239e520a0458585cc9c8e91ed6
+    spriteID: 05eb63dbbf0806846a1bda5ebb74ab44
     internalID: 0
     vertices: []
     indices: 
@@ -135,7 +135,7 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      TrianglesOfDeath_0: 3218942243170319695
+      Levels3_0: -7096974450449987977
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

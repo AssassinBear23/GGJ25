@@ -1,10 +1,28 @@
 fileFormatVersion: 2
-guid: c5445359c99c34f41b8bd92017fdc784
+guid: 1554abfe645e62a40aa7125e9ae9ff99
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 3218942243170319695
-    second: TrianglesOfDeath_0
+      213: -289390117456921568
+    second: Cave4Back_0
+  - first:
+      213: -9056584995915409326
+    second: Cave4Back_1
+  - first:
+      213: -5319013851694977164
+    second: Cave4Back_2
+  - first:
+      213: 814163252896358688
+    second: Cave4Back_3
+  - first:
+      213: -96276681132280390
+    second: Cave4Back_4
+  - first:
+      213: -8962929528577913921
+    second: Cave4Back_5
+  - first:
+      213: -3795910471474267696
+    second: Cave4Back_6
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -100,13 +118,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: TrianglesOfDeath_0
+      name: Cave4Back_0
       rect:
         serializedVersion: 2
-        x: 1511
+        x: 586
         y: 0
-        width: 1045
-        height: 254
+        width: 3157
+        height: 2711
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -115,8 +133,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: f4d7aac5aeafbac20800000000000000
-      internalID: 3218942243170319695
+      spriteID: 02cb87fa831ebfbf0800000000000000
+      internalID: -289390117456921568
       vertices: []
       indices: 
       edges: []
@@ -125,7 +143,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 94e3db239e520a0458585cc9c8e91ed6
+    spriteID: 508c940fad323e2459c1cbdc3fbcef1e
     internalID: 0
     vertices: []
     indices: 
@@ -135,7 +153,7 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      TrianglesOfDeath_0: 3218942243170319695
+      Cave4Back_0: -289390117456921568
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

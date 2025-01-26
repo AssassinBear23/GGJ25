@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: c5445359c99c34f41b8bd92017fdc784
+guid: 15a9f3caa6ce89240a8446d013348fa3
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 3218942243170319695
-    second: TrianglesOfDeath_0
+      213: 222782287417799157
+    second: Rock6_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -100,23 +100,23 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: TrianglesOfDeath_0
+      name: Rock6_0
       rect:
         serializedVersion: 2
-        x: 1511
-        y: 0
-        width: 1045
-        height: 254
+        x: 290
+        y: 858
+        width: 479
+        height: 354
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: f4d7aac5aeafbac20800000000000000
-      internalID: 3218942243170319695
+      spriteID: 5f179cf5f4b771300800000000000000
+      internalID: 222782287417799157
       vertices: []
       indices: 
       edges: []
@@ -125,7 +125,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 94e3db239e520a0458585cc9c8e91ed6
+    spriteID: 
     internalID: 0
     vertices: []
     indices: 
@@ -134,8 +134,7 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable:
-      TrianglesOfDeath_0: 3218942243170319695
+    nameFileIdTable: {}
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
