@@ -1,6 +1,5 @@
 using System;
 using UnityEngine;
-using VHierarchy.Libs;
 
 /// <summary>
 /// This class handles the behavior of following the mouse position or the player's position

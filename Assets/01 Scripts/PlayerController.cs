@@ -1,5 +1,5 @@
-using System;
 using UnityEngine;
+using UnityEngine.SceneManagement;
 using UnityEngine.U2D;
 
 public class PlayerController : MonoBehaviour {
@@ -51,7 +51,10 @@ public class PlayerController : MonoBehaviour {
 
         moveInput = Input.GetAxis("Horizontal");
 
-        if (Input.GetKey(KeyCode.S)) {
+        if (Input.GetKey(KeyCode.R)) {
+            SceneManager.LoadScene(SceneManager.GetActiveScene().name);
+        }
+            if (Input.GetKey(KeyCode.S)) {
             foreach (Transform child in transform) {
                 SpringJoint2D[] springs = child.GetComponents<SpringJoint2D>();
 

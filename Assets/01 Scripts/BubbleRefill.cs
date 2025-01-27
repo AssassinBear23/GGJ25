@@ -1,5 +1,4 @@
 using UnityEngine;
-using UnityEngine.Events;
 
 public class UnityEventTrigger : MonoBehaviour {
     GameManager gameManager;
